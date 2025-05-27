@@ -45,5 +45,3 @@ The analysis is also conducted at the continent level to understand how producti
 
 ## Conclusion
 This analysis provides insights into sugarcane production across different countries and continents. It explores the relationship between various production-related metrics and uncovers patterns and trends within the dataset.
-
-For more details, please refer to the Jupyter Notebook in this repository.
